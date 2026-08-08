@@ -1,0 +1,152 @@
+[
+  {
+    "conversation_id": "conv_001",
+    "pii_flag": false,
+    "pii_types_detected": [],
+    "match_counts": {}
+  },
+  {
+    "conversation_id": "conv_002",
+    "pii_flag": false,
+    "pii_types_detected": [],
+    "match_counts": {}
+  },
+  {
+    "conversation_id": "conv_003",
+    "pii_flag": true,
+    "pii_types_detected": [
+      "email"
+    ],
+    "match_counts": {
+      "email": 1
+    }
+  },
+  {
+    "conversation_id": "conv_004",
+    "pii_flag": false,
+    "pii_types_detected": [],
+    "match_counts": {}
+  },
+  {
+    "conversation_id": "conv_005",
+    "pii_flag": false,
+    "pii_types_detected": [],
+    "match_counts": {}
+  },
+  {
+    "conversation_id": "conv_006",
+    "pii_flag": false,
+    "pii_types_detected": [],
+    "match_counts": {}
+  },
+  {
+    "conversation_id": "conv_007",
+    "pii_flag": true,
+    "pii_types_detected": [
+      "card_partial",
+      "phone"
+    ],
+    "match_counts": {
+      "phone": 1,
+      "card_partial": 1
+    }
+  },
+  {
+    "conversation_id": "conv_008",
+    "pii_flag": false,
+    "pii_types_detected": [],
+    "match_counts": {}
+  },
+  {
+    "conversation_id": "conv_009",
+    "pii_flag": true,
+    "pii_types_detected": [
+      "email"
+    ],
+    "match_counts": {
+      "email": 1
+    }
+  },
+  {
+    "conversation_id": "conv_010",
+    "pii_flag": false,
+    "pii_types_detected": [],
+    "match_counts": {}
+  },
+  {
+    "conversation_id": "conv_011",
+    "pii_flag": false,
+    "pii_types_detected": [],
+    "match_counts": {}
+  },
+  {
+    "conversation_id": "conv_012",
+    "pii_flag": true,
+    "pii_types_detected": [
+      "address"
+    ],
+    "match_counts": {
+      "address": 1
+    }
+  },
+  {
+    "conversation_id": "conv_013",
+    "pii_flag": true,
+    "pii_types_detected": [
+      "email"
+    ],
+    "match_counts": {
+      "email": 1
+    }
+  },
+  {
+    "conversation_id": "conv_014",
+    "pii_flag": false,
+    "pii_types_detected": [],
+    "match_counts": {}
+  },
+  {
+    "conversation_id": "conv_015",
+    "pii_flag": false,
+    "pii_types_detected": [],
+    "match_counts": {}
+  },
+  {
+    "conversation_id": "conv_016",
+    "pii_flag": true,
+    "pii_types_detected": [
+      "phone"
+    ],
+    "match_counts": {
+      "phone": 1
+    }
+  },
+  {
+    "conversation_id": "conv_017",
+    "pii_flag": false,
+    "pii_types_detected": [],
+    "match_counts": {}
+  },
+  {
+    "conversation_id": "conv_018",
+    "pii_flag": false,
+    "pii_types_detected": [],
+    "match_counts": {}
+  },
+  {
+    "conversation_id": "conv_019",
+    "pii_flag": false,
+    "pii_types_detected": [],
+    "match_counts": {}
+  },
+  {
+    "conversation_id": "conv_020",
+    "pii_flag": true,
+    "pii_types_detected": [
+      "name_self_declared"
+    ],
+    "match_counts": {
+      "name_self_declared": 1
+    }
+  }
+]
