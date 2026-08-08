@@ -5,11 +5,6 @@ Machine Learning Data Associate role: intent/dialogue labeling, guideline-driven
 annotation, inter-annotator agreement, model output testing, and PII/compliance
 flagging.
 
-## Status
-Data and tooling are complete. Manual labeling (the actual annotation work)
-is not done yet -- that's the part that has to be done by hand, on purpose,
-since it's the skill this project exists to build and demonstrate. See
-"Your Next Steps" below.
 
 ## Stack
 - Python 3.11, managed with uv (https://docs.astral.sh/uv/)
